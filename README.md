@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [A Web-Based Real-Time Chat Application](https://github.com/nishitpatel-dev/FlashTalk)
 
-- 🌱 I’m currently learning **DevOps & AWS Services**
+- 🌱 I’m currently learning **DevOps & Cloud Services**
 
 - 💬 Ask me about **React.js, Node.js, MongoDB Etc.**
 
