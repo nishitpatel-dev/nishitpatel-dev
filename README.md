@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud Services**
 
-- 💬 Ask me about **React.js, Node.js, Next.js, MongoDB Etc.**
+- 💬 Ask me about **React.js, Node.js, Next.js, Etc.**
 
 - 📫 How to reach me **nishitpatel.dev@gmail.com**
 
