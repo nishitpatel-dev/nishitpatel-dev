@@ -14,7 +14,7 @@
 <a href="https://twitter.com/iam_nishitp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_nishitp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishitpatel-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishitpatel-dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishit27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishit27" height="30" width="40" /></a>
-<a href="https://instagram.com/nishitpatel__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishitpatel__" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/nishitpatel__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishitpatel__" height="30" width="40" /></a> -->
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
